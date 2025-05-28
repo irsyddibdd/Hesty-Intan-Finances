@@ -1,0 +1,5 @@
+{
+    "name": "Manajer Keuangan Pribadi",
+    "description": "A personal finance manager web application to track income, expenses, budgets, and view financial reports. Built with React, TypeScript, and Tailwind CSS, it offers features like transaction management, budget CReate, Read, Update, Delete (CRUD), category customization, and insightful financial dashboards.",
+    "requestFramePermissions": []
+  }
